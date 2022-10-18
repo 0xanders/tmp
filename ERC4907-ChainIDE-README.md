@@ -38,7 +38,7 @@ You need to write down all the required functions that you want to implement in 
 -   `userExpires()`: returns the user expires of the NFT
   
 
-ChainIDE team has prepared the complete 4907-721 showcase including all the required functions, you may use that built-in template and add/delete functions according to your requirements.
+ChainIDE team has prepared the complete ERC-4907 showcase including all the required functions, you may use that built-in template and add/delete functions according to your requirements.
 
 ### 3. Compile, deploy and verify
 These steps are the same as the [ERC-721 template](https://chainide.com/s/ethereum/a5263bf7d7d1490e99f2e5e7188708ef?open=readme.md&type=preview) .
